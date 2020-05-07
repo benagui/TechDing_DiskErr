@@ -1,0 +1,6 @@
+python==3.6.7
+lightgbm==2.3.1
+pandas==0.24.2
+numpy==1.16.2
+TA-Lib==0.4.17
+joblib==0.14.1
